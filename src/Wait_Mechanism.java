@@ -47,6 +47,7 @@ public class Wait_Mechanism {
 		   WebElement facebookElement = wait.until(new Function<WebDriver, WebElement>() {
 		     public WebElement apply(WebDriver driver) {
 		       return driver.findElement(By.linkText("Facebook"));  */
+		//test-2
 		     }
 
 }

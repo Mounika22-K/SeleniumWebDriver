@@ -138,7 +138,7 @@ public class WebDriver_Commands {
 		
 		     //{Clear the text}
 		//element.clear();                                                               //clear()
-		
+		//test
 	
 		}	
 }
