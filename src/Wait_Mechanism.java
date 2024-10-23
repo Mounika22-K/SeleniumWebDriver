@@ -48,6 +48,7 @@ public class Wait_Mechanism {
 		     public WebElement apply(WebDriver driver) {
 		       return driver.findElement(By.linkText("Facebook"));  */
 		//test-2
+		//test-3
 		     }
 
 }
